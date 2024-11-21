@@ -24,14 +24,14 @@ just type remove command in termux for restore old termux theme.
 ## Issue / Feedback :
 
 <pre>
-  you can contact us through telegram username : @realbhai4you
+  you can contact us through telegram username : @tp_editz
   i would like to help you during installation of termux banner ;)
 </pre>
 
 
 ## Tutorial :
 <p>
-  <a href="https://bhai4you.blogspot.com/2021/12/evileye2.html">Easy New Method</a>
+  <a href="https://tpeditz.blogspot.com/2021/12/evileye2.html">Easy New Method</a>
   </p>
 
 ## Termux Ninja App
@@ -48,7 +48,7 @@ just type remove command in termux for restore old termux theme.
 </pre>
 
 ## Termux Tutorials & Learn Cybersecurity
-<center><a href="https://bhai4you.com"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux-tutorials-banner-65e83fe128fd4.webp" alt="Vehicle Osint"  ></a></center>
+<center><a href="https://bhai4you.com"><img src="https://raw.githubusercontent.com/master/termux-tutorials-banner-65e83fe128fd4.webp" alt="Vehicle Osint"  ></a></center>
 <pre> 
   Features :
   - Cool UI
@@ -58,7 +58,7 @@ just type remove command in termux for restore old termux theme.
   - and much more..
 
   Visit our site :
-  - click on above image or <a href="https://bhai4you.com">bhai4you.com</a> here.
+  - click on above image or <a href="https://tpeditz.com">tpeditz.com</a> here.
 
   
   
